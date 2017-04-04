@@ -11,3 +11,4 @@ For maze generator I've used the Kruskal's algorithm https://en.wikipedia.org/wi
 To start the game just click the button in the middle and try to get into the green spot avoiding enemies.
 Have fun! :)
 
+!https://raw.githubusercontent.com/pavolsenko/labyrinth-game/master/assets/screenshot.png
