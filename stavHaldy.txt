@@ -1,2 +1,0 @@
-Heap Status at start:                    0
-Heap Status at Finish:                   0
